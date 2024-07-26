@@ -45,8 +45,8 @@ Check out the [demo video](https://youtu.be/EVD-cxIq74s) to see the app in actio
 
 1. *Clone the repository*:
    ```bash
-   git clone https://github.com/DXtR-05/mern-ai-image-generator.git
-   cd mern-ai-image-generator
+   git clone https://github.com/DXtR-05/Ai-Image-Generator-Using-OpenAI.git
+   cd Ai-Image-Generator-Using-OpenAI
 2. **Install dependencies**:
    ```bash
    npm install
