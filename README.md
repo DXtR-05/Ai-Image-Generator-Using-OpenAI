@@ -32,9 +32,14 @@ Check out the [demo video](https://youtu.be/EVD-cxIq74s) to see the app in actio
 
 ## Screenshots
 
-![Screenshot 1](Home.png)
-![Screenshot 1](Create.png)
-![Screenshot 3](Imgs.png)
+### Home Page
+![Home Page](Home.png)
+
+### Create Image Page
+![Create Image Page](Create.png)
+
+### Generated Images Page
+![Generated Images Page](Imgs.png)
 
 ## Getting Started
 
